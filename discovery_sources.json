@@ -1,3 +1,4 @@
+
 [
   {
     "name": "مناقصات سوريا ودول الجوار",
@@ -6,15 +7,15 @@
     "enabled": true
   },
   {
-    "name": "مناقصتك - Telegram (أضف الرابط الدقيق)",
+    "name": "مناقصتك - Your Tender",
     "type": "telegram_public",
-    "url": "",
-    "enabled": false
+    "url": "https://t.me/s/youradsyria",
+    "enabled": true
   },
   {
-    "name": "خطوة - Telegram (أضف الرابط الدقيق)",
+    "name": "خطوة - المناقصات",
     "type": "telegram_public",
-    "url": "",
-    "enabled": false
+    "url": "https://t.me/s/TenderForSyrian",
+    "enabled": true
   }
 ]
