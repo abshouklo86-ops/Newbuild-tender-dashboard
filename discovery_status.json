@@ -1,4 +1,12 @@
 {
-  "state": "not_run",
-  "note": "Requires a GitHub Actions run with network access. Candidates need verification."
+  "last_attempt_utc": "2026-10-21T15:05:23.992105+00:00",
+  "candidate_count": 14,
+  "sources": [
+    {
+      "source": "مناقصات سوريا ودول الجوار",
+      "posts_parsed": 15,
+      "relevant_candidates": 14
+    }
+  ],
+  "warning": "These are unverified leads, not confirmed open tenders."
 }
