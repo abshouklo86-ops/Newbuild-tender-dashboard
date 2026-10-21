@@ -1,0 +1,32 @@
+name: New Build automatic tenders and public leads
+on:
+  schedule:
+    # Damascus is UTC+3 year-round: 12:00 and 16:00 local
+    - cron: '0 9,13 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: newbuild-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect Telegram public leads (unverified)
+        run: python discover.py
+      - name: Import verified CSV/JSON feeds
+        run: python update.py
+      - name: Publish JSON changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add tenders.json last_check.json candidates.json discovery_status.json
+          git diff --cached --quiet || (git commit -m 'Refresh Syria tender leads' && git push)

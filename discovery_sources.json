@@ -1,0 +1,20 @@
+[
+  {
+    "name": "مناقصات سوريا ودول الجوار",
+    "type": "telegram_public",
+    "url": "https://t.me/s/TendersinSyriaandTurkey",
+    "enabled": true
+  },
+  {
+    "name": "مناقصتك - Telegram (أضف الرابط الدقيق)",
+    "type": "telegram_public",
+    "url": "",
+    "enabled": false
+  },
+  {
+    "name": "خطوة - Telegram (أضف الرابط الدقيق)",
+    "type": "telegram_public",
+    "url": "",
+    "enabled": false
+  }
+]

@@ -1,0 +1,1863 @@
+[
+  {
+    "id": 1,
+    "name": "UNDP",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 2,
+    "name": "UNHCR",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 3,
+    "name": "UNICEF",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 4,
+    "name": "UNRWA",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 5,
+    "name": "UNIDO",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 6,
+    "name": "UNDOF",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 7,
+    "name": "WFP",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 8,
+    "name": "WHO",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 9,
+    "name": "FAO",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 10,
+    "name": "UNFPA",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 11,
+    "name": "IOM",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 12,
+    "name": "OCHA",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 13,
+    "name": "UNOPS",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 14,
+    "name": "UN-Habitat",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 15,
+    "name": "UNESCO",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 16,
+    "name": "UN Women",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 17,
+    "name": "ILO",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 18,
+    "name": "ICRC",
+    "category": "مؤسسات الأمم المتحدة"
+  },
+  {
+    "id": 19,
+    "name": "POINT",
+    "category": "منظمات دولية غير حكومية"
+  },
+  {
+    "id": 20,
+    "name": "GOPA-DERD",
+    "category": "مؤسسات كنسية"
+  },
+  {
+    "id": 21,
+    "name": "Jesuit Refugee Service (JRS)",
+    "category": "مؤسسات كنسية"
+  },
+  {
+    "id": 22,
+    "name": "Caritas Syria",
+    "category": "مؤسسات كنسية"
+  },
+  {
+    "id": 23,
+    "name": "Rahbaniyat Al-Qalbayn Al-Aqdasayn",
+    "category": "مؤسسات كنسية"
+  },
+  {
+    "id": 24,
+    "name": "Canadian Foodgrains Bank",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 25,
+    "name": "Mennonite Central Committee Canada MCC",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 26,
+    "name": "World Renew",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 27,
+    "name": "Qatar Charity",
+    "category": "المؤسسات الخليجية"
+  },
+  {
+    "id": 28,
+    "name": "Qatar Red Crescent Society",
+    "category": "المؤسسات الخليجية"
+  },
+  {
+    "id": 29,
+    "name": "Emirates Red Crescent",
+    "category": "المؤسسات الخليجية"
+  },
+  {
+    "id": 30,
+    "name": "King Salman Humanitarian Aid and Relief Centre (KSrelief)",
+    "category": "المؤسسات الخليجية"
+  },
+  {
+    "id": 31,
+    "name": "Alwaleed Philanthropies",
+    "category": "المؤسسات الخليجية"
+  },
+  {
+    "id": 32,
+    "name": "Khalaf Al Habtoor / Al Habtoor Group",
+    "category": "المؤسسات الخليجية"
+  },
+  {
+    "id": 33,
+    "name": "Syrian Society for Social Development (SSSD)",
+    "category": "جمعيات محلية"
+  },
+  {
+    "id": 34,
+    "name": "جمعية التنظيم والأسرة",
+    "category": "جمعيات محلية"
+  },
+  {
+    "id": 35,
+    "name": "Ihsan Relief and Development",
+    "category": "جمعيات محلية",
+    "source": "https://ihsanrd.org/",
+    "notes": "جهة مسماة؛ وجودها لا يؤكد طرح مناقصة مفتوحة"
+  },
+  {
+    "id": 36,
+    "name": "Sila Ihsan Foundation for Relief and Development",
+    "category": "جمعيات محلية",
+    "source": "https://www.sila-syr.org/",
+    "notes": "جهة مسماة؛ وجودها لا يؤكد طرح مناقصة مفتوحة"
+  },
+  {
+    "id": 37,
+    "name": "Syria Relief (Action For Humanity)",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriarelief.org.uk/",
+    "notes": "جهة مسماة؛ وجودها لا يؤكد طرح مناقصة مفتوحة"
+  },
+  {
+    "id": 38,
+    "name": "ADRA Canada",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 39,
+    "name": "The Alliance Canada",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 40,
+    "name": "Alongside Hope",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 41,
+    "name": "Canadian Baptist Ministries",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 42,
+    "name": "Canadian Lutheran World Relief",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 43,
+    "name": "Development and Peace–Caritas Canada",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 44,
+    "name": "ERDO",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 45,
+    "name": "Evangelical Missionary Church of Canada",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 46,
+    "name": "Nazarene Compassionate Ministries Canada",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 47,
+    "name": "Presbyterian World Service & Development",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 48,
+    "name": "The Salvation Army",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 49,
+    "name": "The United Church of Canada",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 50,
+    "name": "Tearfund Canada",
+    "category": "المؤسسات الكندية"
+  },
+  {
+    "id": 51,
+    "name": "مركز اللاتين للإغاثة والتنمية",
+    "category": "مؤسسات كنسية"
+  },
+  {
+    "id": 52,
+    "name": "مركز الإغاثة والتنمية – Relief and Development Center (RDC)",
+    "category": "مؤسسات كنسية"
+  },
+  {
+    "id": 53,
+    "name": "هيئة مار أفرام للإغاثة والتنمية",
+    "category": "مؤسسات كنسية"
+  },
+  {
+    "id": 54,
+    "name": "DDISC Damascus",
+    "category": "مؤسسات كنسية"
+  },
+  {
+    "id": 55,
+    "name": "مركز بيت عنيا – Bethany Home",
+    "category": "مؤسسات كنسية"
+  },
+  {
+    "id": 56,
+    "name": "جمعية مار منصور الخيرية",
+    "category": "مؤسسات كنسية"
+  },
+  {
+    "name": "ACT Alliance Syria Forum",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 1",
+    "id": 57
+  },
+  {
+    "name": "AVSI Foundation-ETS",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 2",
+    "id": 58
+  },
+  {
+    "name": "Accion Contra el Hambre ACF Spain",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 3",
+    "id": 59
+  },
+  {
+    "name": "Acted",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 4",
+    "id": 60
+  },
+  {
+    "name": "ActionAid International-Arab Region",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 5",
+    "id": 61
+  },
+  {
+    "name": "Adventist Development and Relief Agency-Syria ADRA",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 6",
+    "id": 62
+  },
+  {
+    "name": "Aga Khan Development Network-Department of Diplomatic Affairs",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 7",
+    "id": 63
+  },
+  {
+    "name": "Aga Khan Health Services-Syria",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 8",
+    "id": 64
+  },
+  {
+    "name": "Armadilla",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 9",
+    "id": 65
+  },
+  {
+    "name": "Association For Social Development and Aid Mobilization",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 10",
+    "id": 66
+  },
+  {
+    "name": "Association for Aid and Relief Japan AAR Japan",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 11",
+    "id": 67
+  },
+  {
+    "name": "Blumont",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 12",
+    "id": 68
+  },
+  {
+    "name": "CAFOD",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 13",
+    "id": 69
+  },
+  {
+    "name": "CARE International",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 14",
+    "id": 70
+  },
+  {
+    "name": "CESVI Foundation-ETS",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 15",
+    "id": 71
+  },
+  {
+    "name": "COOPI Cooperazione Internazionale",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 16",
+    "id": 72
+  },
+  {
+    "name": "Caritas Poland",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 17",
+    "id": 73
+  },
+  {
+    "name": "Caritas Switzerland",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 18",
+    "id": 74
+  },
+  {
+    "name": "Catholic Relief Services",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 19",
+    "id": 75
+  },
+  {
+    "name": "Center for Civilians in Conflict",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 20",
+    "id": 76
+  },
+  {
+    "name": "Christian Aid",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 21",
+    "id": 77
+  },
+  {
+    "name": "Community Organized Relief Effort CORE",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 22",
+    "id": 78
+  },
+  {
+    "name": "Concern Worldwide",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 23",
+    "id": 79
+  },
+  {
+    "name": "Coordination of the Organization for Voluntary Service COSV",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 24",
+    "id": 80
+  },
+  {
+    "name": "DanChurchAid",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 25",
+    "id": 81
+  },
+  {
+    "name": "Danish Red Cross",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 26",
+    "id": 82
+  },
+  {
+    "name": "Danish Refugee Council",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 27",
+    "id": 83
+  },
+  {
+    "name": "Deutsche Welthungerhilfe",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 28",
+    "id": 84
+  },
+  {
+    "name": "Diakonie Katastrophenhilfe DKH",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 29",
+    "id": 85
+  },
+  {
+    "name": "Dorcas Aid International",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 30",
+    "id": 86
+  },
+  {
+    "name": "Dunya Doktorlari Dernegi MdM Turkiye",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 31",
+    "id": 87
+  },
+  {
+    "name": "Estonian Refugee Council",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 32",
+    "id": 88
+  },
+  {
+    "name": "European Institute of Cooperation and Development IECD",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 33",
+    "id": 89
+  },
+  {
+    "name": "Farmaceuticos Mundi",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 34",
+    "id": 90
+  },
+  {
+    "name": "Fight for Humanity",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 35",
+    "id": 91
+  },
+  {
+    "name": "Finn Church Aid",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 36",
+    "id": 92
+  },
+  {
+    "name": "GOAL",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 37",
+    "id": 93
+  },
+  {
+    "name": "Geneva Call",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 38",
+    "id": 94
+  },
+  {
+    "name": "Global Communities",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 39",
+    "id": 95
+  },
+  {
+    "name": "HEKS-EPER",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 40",
+    "id": 96
+  },
+  {
+    "name": "Help Hilfe zur Selbsthilfe",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 41",
+    "id": 97
+  },
+  {
+    "name": "Human Appeal",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 42",
+    "id": 98
+  },
+  {
+    "name": "Humanitarian Dialogue",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 43",
+    "id": 99
+  },
+  {
+    "name": "Humanitarian Logistics Cooperative hulo",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 44",
+    "id": 100
+  },
+  {
+    "name": "Humanity & Inclusion",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 45",
+    "id": 101
+  },
+  {
+    "name": "IMPACT Initiatives",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 46",
+    "id": 102
+  },
+  {
+    "name": "INTERSOS",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 47",
+    "id": 103
+  },
+  {
+    "name": "Institute for University Cooperation",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 48",
+    "id": 104
+  },
+  {
+    "name": "International Medical Corps IMC",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 49",
+    "id": 105
+  },
+  {
+    "name": "International NGO Safety Organisation INSO",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 50",
+    "id": 106
+  },
+  {
+    "name": "International Rescue Committee IRC",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 51",
+    "id": 107
+  },
+  {
+    "name": "Islamic Relief Worldwide",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 52",
+    "id": 108
+  },
+  {
+    "name": "La Chaine de l'Espoir",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 53",
+    "id": 109
+  },
+  {
+    "name": "Libraries Without Borders",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 54",
+    "id": 110
+  },
+  {
+    "name": "Lutheran World Federation",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 55",
+    "id": 111
+  },
+  {
+    "name": "MEHAD",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 56",
+    "id": 112
+  },
+  {
+    "name": "MSF Belgium",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 57",
+    "id": 113
+  },
+  {
+    "name": "MSF France",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 58",
+    "id": 114
+  },
+  {
+    "name": "MSF Holland",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 59",
+    "id": 115
+  },
+  {
+    "name": "MSF Spain",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 60",
+    "id": 116
+  },
+  {
+    "name": "MSF Switzerland",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 61",
+    "id": 117
+  },
+  {
+    "name": "Malteser International",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 62",
+    "id": 118
+  },
+  {
+    "name": "MedGlobal",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 63",
+    "id": 119
+  },
+  {
+    "name": "Medair",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 64",
+    "id": 120
+  },
+  {
+    "name": "Medecins du Monde France",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 65",
+    "id": 121
+  },
+  {
+    "name": "Medicos del Mundo Espagne",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 66",
+    "id": 122
+  },
+  {
+    "name": "Mercy Corps",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 67",
+    "id": 123
+  },
+  {
+    "name": "Mines Advisory Group MAG",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 68",
+    "id": 124
+  },
+  {
+    "name": "Mission East",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 69",
+    "id": 125
+  },
+  {
+    "name": "Near East Foundation NEF",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 70",
+    "id": 126
+  },
+  {
+    "name": "Norwegian Church Aid",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 71",
+    "id": 127
+  },
+  {
+    "name": "Norwegian People's Aid",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 72",
+    "id": 128
+  },
+  {
+    "name": "Norwegian Refugee Council NRC",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 73",
+    "id": 129
+  },
+  {
+    "name": "ONG Rescate International",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 74",
+    "id": 130
+  },
+  {
+    "name": "Oxfam International",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 75",
+    "id": 131
+  },
+  {
+    "name": "Premiere Urgence Internationale",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 76",
+    "id": 132
+  },
+  {
+    "name": "People In Need",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 77",
+    "id": 133
+  },
+  {
+    "name": "Plan International Syria",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 78",
+    "id": 134
+  },
+  {
+    "name": "Polish Humanitarian Action",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 79",
+    "id": 135
+  },
+  {
+    "name": "Relief International",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 80",
+    "id": 136
+  },
+  {
+    "name": "SHEILD Association",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 81",
+    "id": 137
+  },
+  {
+    "name": "SOS Chretiens d'Orient",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 82",
+    "id": 138
+  },
+  {
+    "name": "Samaritan's Purse International Relief",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 83",
+    "id": 139
+  },
+  {
+    "name": "Save the Children International",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 84",
+    "id": 140
+  },
+  {
+    "name": "Search For Common Ground",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 85",
+    "id": 141
+  },
+  {
+    "name": "Secours Islamique France SIF",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 86",
+    "id": 142
+  },
+  {
+    "name": "Solidar Suisse",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 87",
+    "id": 143
+  },
+  {
+    "name": "Solidarites International",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 88",
+    "id": 144
+  },
+  {
+    "name": "Still I Rise",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 89",
+    "id": 145
+  },
+  {
+    "name": "Syrian American Medical Society SAMS",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 90",
+    "id": 146
+  },
+  {
+    "name": "Turkish Red Crescent",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 91",
+    "id": 147
+  },
+  {
+    "name": "Terre des Hommes Lausanne",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 92",
+    "id": 148
+  },
+  {
+    "name": "Terre des Hommes Italy",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 93",
+    "id": 149
+  },
+  {
+    "name": "Center for Victims of Torture",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 94",
+    "id": 150
+  },
+  {
+    "name": "HALO Trust",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 95",
+    "id": 151
+  },
+  {
+    "name": "MENTOR Initiative",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 96",
+    "id": 152
+  },
+  {
+    "name": "Triangle Generation Humanitaire",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 97",
+    "id": 153
+  },
+  {
+    "name": "Trocaire",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 98",
+    "id": 154
+  },
+  {
+    "name": "Un Ponte Per ETS",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 99",
+    "id": 155
+  },
+  {
+    "name": "War Child Alliance",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 100",
+    "id": 156
+  },
+  {
+    "name": "WeWorld",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 101",
+    "id": 157
+  },
+  {
+    "name": "World Vision Syria Response",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 102",
+    "id": 158
+  },
+  {
+    "name": "ZOA",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 103",
+    "id": 159
+  },
+  {
+    "name": "arche nova",
+    "category": "منظمات دولية غير حكومية",
+    "source": "Syrian NGO Forum — قائمة 104 في تقرير New Build 19-10-2026",
+    "notes": "رقم القائمة الأصلية: 104",
+    "id": 160
+  },
+  {
+    "id": 161,
+    "name": "AFAQ Humanitarian Relief Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 162,
+    "name": "ASHTI Foundation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 163,
+    "name": "ATAA Humanitarian Relief Association",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 164,
+    "name": "Accion Contra el Hambre",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 165,
+    "name": "Action For Humanity",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 166,
+    "name": "Advancing Civil Society - GLOCA",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 167,
+    "name": "Adventist Development and Relief Agency - Syria",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 168,
+    "name": "Aga Khan Development Network",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 169,
+    "name": "Aid Gate Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 170,
+    "name": "Al Hayat Volunteering Team",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 171,
+    "name": "Al-Ameen For Humanitarian Support",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 172,
+    "name": "Al-Mawaddah Charitable Society in Hasaka",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 173,
+    "name": "Al-Sham Humanitarian Foundation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 174,
+    "name": "Aljalil association",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 175,
+    "name": "Amal Organization for Relief and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 176,
+    "name": "Ashna for Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 177,
+    "name": "Association for Aid and Relief, Japan",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 178,
+    "name": "BINAA Organization for Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 179,
+    "name": "Bahar Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 180,
+    "name": "Basmeh and Zeitooneh",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 181,
+    "name": "Bateel for Care and Development Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 182,
+    "name": "Big Heart Foundation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 183,
+    "name": "Bonyan Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 184,
+    "name": "Bukra Ahla Association for Relief and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 185,
+    "name": "CESVI Foundation",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 186,
+    "name": "Child Guardians Syria",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 187,
+    "name": "Christian Hope Center",
+    "category": "مؤسسات كنسية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 188,
+    "name": "Community Organized Relief Effort",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 189,
+    "name": "Coordination of the Organization for Voluntary Service",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 190,
+    "name": "DAN for Relief and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 191,
+    "name": "DAR for Peace and Prosperity",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 192,
+    "name": "DOZ",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 193,
+    "name": "Deirna Nexus",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 194,
+    "name": "Diakonie Katastrophenhilfe",
+    "category": "مؤسسات كنسية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 195,
+    "name": "ELAF for Relief and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 196,
+    "name": "Emissa For Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 197,
+    "name": "Equity and Empowerment Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 198,
+    "name": "European Institute of Cooperation and Development",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 199,
+    "name": "Field Ready for Humanitarian Innovation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 200,
+    "name": "Freedom Jasmine",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 201,
+    "name": "Future Pioneers for Empowering Communities",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 202,
+    "name": "Global Harmony Foundation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 203,
+    "name": "Hand in Hand for Aid And Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 204,
+    "name": "Hands Together",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 205,
+    "name": "Hope Revival Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 206,
+    "name": "Horan Foundation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 207,
+    "name": "Human Aid and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 208,
+    "name": "Humanitarian Logistics Cooperative",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 209,
+    "name": "Humanitarian and Development Cooperation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 210,
+    "name": "INTERSOS Humanitarian Aid Organization",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 211,
+    "name": "ISWA Association",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 212,
+    "name": "Ihsan for Relief and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 213,
+    "name": "Independent Doctors Association",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 214,
+    "name": "Innovative and Powerful Vision",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 215,
+    "name": "Insan Charity Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 216,
+    "name": "International Association for Relief and Development (ONSUR)",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 217,
+    "name": "International Humanitarian Relief",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 218,
+    "name": "International Humanitarian Relief Association",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 219,
+    "name": "International Medical Corps",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 220,
+    "name": "International NGO Safety Organisation",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 221,
+    "name": "Muzun for Humanitarian and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 222,
+    "name": "Nasaem Khair Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 223,
+    "name": "Near East Foundation",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 224,
+    "name": "Nima for Relief and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 225,
+    "name": "Norwegian Refugee Council",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 226,
+    "name": "Olive Branch Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 227,
+    "name": "Orange Organisation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 228,
+    "name": "Orient for Human Relief & Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 229,
+    "name": "Physicians Across Continents",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 230,
+    "name": "Plan International Inc Syria",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 231,
+    "name": "Polish Medical Mission",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 232,
+    "name": "Quality Research and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 233,
+    "name": "ROSEMARY",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 234,
+    "name": "Rahma Bila Hudood- Syria",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 235,
+    "name": "SARD",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 236,
+    "name": "SEWAR ORGANIZATION",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 237,
+    "name": "SKT Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 238,
+    "name": "SMART Foundation for Community Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 239,
+    "name": "SYCAC",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 240,
+    "name": "Safe Land",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 241,
+    "name": "Salam For Hope Foundation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 242,
+    "name": "Salam Humanitarian Foundation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 243,
+    "name": "Sanad Youth Foundation for Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 244,
+    "name": "Syrian Arab Red Crescent",
+    "category": "جمعيات محلية",
+    "source": "https://www.ifrc.org/national-societies-directory/syrian-arab-red-crescent",
+    "notes": "جهة مسماة؛ وجودها لا يؤكد طرح مناقصة مفتوحة"
+  },
+  {
+    "id": 245,
+    "name": "Shafak Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 246,
+    "name": "Smile of Peace",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 247,
+    "name": "Social Development International",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 248,
+    "name": "Solidarity Respect and Protect Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 249,
+    "name": "Space Of Peace",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 250,
+    "name": "St. Ephrem Patriarchal Development Committee",
+    "category": "مؤسسات كنسية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 251,
+    "name": "Stability Support Foundation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 252,
+    "name": "Syria Bright Future",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 253,
+    "name": "Syria Localisation Lab",
+    "category": "الشبكات والمنصات",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 254,
+    "name": "Syria Relief & Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 255,
+    "name": "Syrian American Medical Society",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 256,
+    "name": "Syrian Development Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 257,
+    "name": "Syrian Expatriates Medical Association",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 258,
+    "name": "Syrian Forum",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 259,
+    "name": "Syrian NGO Alliance - SNA",
+    "category": "الشبكات والمنصات",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 260,
+    "name": "Syrian National Care Foundation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 261,
+    "name": "Syrian Networks League - SNL",
+    "category": "الشبكات والمنصات",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 262,
+    "name": "Syrian Society for Social Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 263,
+    "name": "TOTOL for Relief and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 264,
+    "name": "Takaful Al Sham Charity Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 265,
+    "name": "Tamkeen For Humanity",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 266,
+    "name": "The Center for Victims of Torture",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 267,
+    "name": "The HALO Trust",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 268,
+    "name": "The MENTOR Initiative",
+    "category": "منظمات دولية غير حكومية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 269,
+    "name": "UOSSM",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 270,
+    "name": "Union of Charitable Associations",
+    "category": "الشبكات والمنصات",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 271,
+    "name": "VIYAN Organization for Medical Relief and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 272,
+    "name": "Violet Organization",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 273,
+    "name": "WATAN Foundation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 274,
+    "name": "WOmen Led organization plaform",
+    "category": "الشبكات والمنصات",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 275,
+    "name": "Watad Foundation",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 276,
+    "name": "White Hands Association for Relief and Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 277,
+    "name": "Women Led Forum",
+    "category": "الشبكات والمنصات",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 278,
+    "name": "Women Now for Development",
+    "category": "جمعيات محلية",
+    "source": "https://syriangoforum.org/snf_members",
+    "notes": "مدرج بدليل Syria NGO Forum؛ لم يتم التحقق من وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 279,
+    "name": "Banque Bemo Saudi Fransi",
+    "category": "قطاع خاص",
+    "source": "https://www.bbsfbank.com/",
+    "notes": "جهة خاصة مسماة؛ إدراجها لا يثبت وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 280,
+    "name": "BEMO Saudi Fransi for Microfinance",
+    "category": "قطاع خاص",
+    "source": "https://www.linkedin.com/company/bbsfmf",
+    "notes": "جهة خاصة مسماة؛ إدراجها لا يثبت وجود مناقصة مفتوحة"
+  },
+  {
+    "id": 281,
+    "name": "Bemo Saudi Fransi Finance",
+    "category": "قطاع خاص",
+    "source": "https://www.linkedin.com/company/bemo-saudi-fransi-finance",
+    "notes": "جهة خاصة مسماة؛ إدراجها لا يثبت وجود مناقصة مفتوحة"
+  }
+]
