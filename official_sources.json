@@ -1,0 +1,34 @@
+[
+  {
+    "name": "UNGM - UN procurement opportunities",
+    "url": "https://www.ungm.org/public/notice",
+    "agency": "UN system",
+    "enabled": true,
+    "kind": "html_monitor",
+    "note": "JavaScript listings may not be visible in static HTML; no automated claim of full coverage"
+  },
+  {
+    "name": "UNDP - Procurement notices",
+    "url": "https://procurement-notices.undp.org/",
+    "agency": "UNDP",
+    "enabled": true,
+    "kind": "html_monitor",
+    "note": "Independent notice site; inspect results"
+  },
+  {
+    "name": "UNOPS - Business opportunities",
+    "url": "https://www.unops.org/business-opportunities",
+    "agency": "UNOPS",
+    "enabled": true,
+    "kind": "html_monitor",
+    "note": "Portal may link externally"
+  },
+  {
+    "name": "UNICEF - Supplier opportunities",
+    "url": "https://www.unicef.org/supply/become-unicef-supplier",
+    "agency": "UNICEF",
+    "enabled": true,
+    "kind": "html_monitor",
+    "note": "Guidance directs notices to UNGM; does not represent a dedicated tender listing"
+  }
+]
