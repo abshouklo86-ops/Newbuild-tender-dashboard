@@ -1,9 +1,9 @@
 {
-  "checked_at_utc": "2026-10-24T13:24:23.178055+00:00",
+  "checked_at_utc": "2026-10-27T09:29:45.712434+00:00",
   "sources_configured": 4,
   "sources_checked": 3,
   "source_errors": 1,
-  "unverified_candidates": 11,
+  "unverified_candidates": 10,
   "directory_total_expected": 281,
   "organizations_individually_monitored": 0,
   "full_coverage_verified": false,
@@ -20,8 +20,8 @@
       "name": "UNDP - Procurement notices",
       "url": "https://procurement-notices.undp.org/",
       "status": "checked",
-      "links_checked": 564,
-      "candidates": 11
+      "links_checked": 554,
+      "candidates": 10
     },
     {
       "name": "UNOPS - Business opportunities",
