@@ -1,16 +1,16 @@
 {
-  "last_attempt_utc": "2026-11-05T09:46:12.387282+00:00",
-  "candidate_count": 483,
+  "last_attempt_utc": "2026-11-05T14:04:05.119550+00:00",
+  "candidate_count": 500,
   "sources": [
     {
       "source": "مناقصات سوريا ودول الجوار",
-      "posts_parsed": 15,
-      "relevant_candidates": 13
+      "posts_parsed": 16,
+      "relevant_candidates": 16
     },
     {
       "source": "مناقصتك - Your Tender",
       "posts_parsed": 20,
-      "relevant_candidates": 17
+      "relevant_candidates": 16
     },
     {
       "source": "خطوة - المناقصات",
