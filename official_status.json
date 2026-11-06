@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-05T14:08:35.759956+00:00",
+  "checked_at_utc": "2026-11-06T09:51:51.752442+00:00",
   "sources_configured": 4,
   "sources_checked": 3,
   "source_errors": 1,
@@ -20,7 +20,7 @@
       "name": "UNDP - Procurement notices",
       "url": "https://procurement-notices.undp.org/",
       "status": "checked",
-      "links_checked": 594,
+      "links_checked": 593,
       "candidates": 5
     },
     {
