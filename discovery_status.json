@@ -1,11 +1,11 @@
 {
-  "last_attempt_utc": "2026-11-10T09:42:46.222881+00:00",
-  "candidate_count": 421,
+  "last_attempt_utc": "2026-11-10T13:57:43.748299+00:00",
+  "candidate_count": 437,
   "sources": [
     {
       "source": "مناقصات سوريا ودول الجوار",
       "posts_parsed": 19,
-      "relevant_candidates": 15
+      "relevant_candidates": 16
     },
     {
       "source": "مناقصتك - Your Tender",
@@ -14,8 +14,8 @@
     },
     {
       "source": "خطوة - المناقصات",
-      "posts_parsed": 17,
-      "relevant_candidates": 13
+      "posts_parsed": 11,
+      "relevant_candidates": 10
     }
   ],
   "warning": "These are unverified leads, not confirmed open tenders."
